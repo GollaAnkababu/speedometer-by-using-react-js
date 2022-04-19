@@ -1,0 +1,49 @@
+/* Write your CSS here */
+
+.bg-container {
+  background-color: #07080c;
+  text-align: center;
+  height: 100vh;
+  background-size: cover;
+  padding: 50px;
+  color: white;
+  font-family: 'Roboto';
+}
+
+.img {
+  height: 200px;
+  width: 450px;
+  margin: 20px;
+}
+
+.small-heading {
+  font-size: 25px;
+  font-weight: 400;
+  margin: 20px;
+}
+
+.button {
+  height: 35px;
+  width: 90px;
+  color: white;
+  background-color: #07080c;
+  border-radius: 10px;
+  border-width: 1px;
+  border-color: #94a3b8;
+  margin: 10px;
+}
+
+.button1 {
+  height: 35px;
+  width: 90px;
+  color: white;
+  background-color: #0b69ff;
+  border-radius: 10px;
+  border-width: 1px;
+  border-color: #0b69ff;
+  margin: 10px;
+}
+
+.paragraph {
+  color: #94a3b8;
+}
